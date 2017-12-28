@@ -20,7 +20,6 @@ function get_message {
 			message="too $message"
 		fi
 	fi
-
 	echo $message
 }
 
